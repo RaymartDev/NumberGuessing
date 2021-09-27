@@ -14,4 +14,5 @@ After the game it will show you how many guesses you made and how long you are g
 How to start a game
 ```java
 Game game = new Game(int bound, Scanner scanner);
+game.start();
 ```
